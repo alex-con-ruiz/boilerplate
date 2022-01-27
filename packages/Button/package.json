@@ -9,11 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "esbuild": "0.14.13"
-  },
-  "devDependencies": {
-    "css-loader": "^6.5.1"
-  }
+  "license": "ISC"
 }

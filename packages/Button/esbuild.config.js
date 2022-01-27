@@ -49,7 +49,7 @@ esbuild.build(
     format: 'esm',
     target: ['esnext'],
     logLevel: "info",
-    entryPoints: ["../../src/lib/components/Button/Button.jsx"],
+    entryPoints: ["../../src/lib/components/Button/index.tsx"],
     bundle: true,
     outdir: "./lib",
     plugins: [sassPlugin()],
